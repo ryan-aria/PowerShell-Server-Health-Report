@@ -16,6 +16,22 @@ A production-style PowerShell health check and inventory reporting tool for Syst
 - Includes basic error handling with `try/catch` blocks
 - Organized into logical, commented sections for easy learning
 
+## Technologies Used
+
+- PowerShell
+- WMI / CIM
+- Git
+- GitHub
+
+## Skills Demonstrated
+
+- System Inventory
+- Windows Administration
+- Hardware Information Collection
+- PowerShell Scripting
+- Documentation
+- Version Control
+
 ## Requirements
 
 - Windows PowerShell 5.1 or PowerShell 7+
