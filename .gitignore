@@ -1,0 +1,22 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+*.code-workspace
+
+# PowerShell
+*.log
+
+# Local exports (future versions)
+*.csv
+*.html
+
+# Screenshots (add your own; keep folder via .gitkeep)
+screenshots/*
+!screenshots/.gitkeep

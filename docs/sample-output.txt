@@ -1,0 +1,13 @@
+===============================
+ Server Health Report
+===============================
+
+ComputerName          : DC01
+OperatingSystemName   : Microsoft Windows Server 2022 Standard
+OSVersion             : 10.0.20348
+Manufacturer          : Dell Inc.
+Model                 : PowerEdge R740
+TotalPhysicalMemoryGB : 32
+FreePhysicalMemoryGB  : 18.45
+BIOSVersion           : 2.15.0
+SerialNumber          : ABCD1234
