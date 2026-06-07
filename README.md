@@ -55,7 +55,9 @@ A production-style PowerShell health check and inventory reporting tool for Syst
 
 4. Review the formatted report displayed in the console.
 
-## Example Output
+## Sample Output
+
+![Server Health Report](screenshots/server-health-report.png)
 
 ```
 ===============================
