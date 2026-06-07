@@ -17,6 +17,7 @@ Desktop.ini
 *.csv
 *.html
 
-# Screenshots (add your own; keep folder via .gitkeep)
+# Screenshots
 screenshots/*
 !screenshots/.gitkeep
+!screenshots/*.png
